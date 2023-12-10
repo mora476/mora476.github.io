@@ -20,7 +20,7 @@ body {
   .card {
     width: 540px;
     margin-bottom: 20px;
-    background-color: #fff;
+    background-color: #b39f46;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
@@ -36,7 +36,7 @@ body {
   }
   
   .card-title {
-    color: #fff;
+    color: #ffffff;
     font-size: 1.2em;
     margin-bottom: 10px;
   }
